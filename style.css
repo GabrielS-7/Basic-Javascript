@@ -1,0 +1,16 @@
+.content{
+    max-width: 500px;
+    margin: auto;
+}
+
+.header {
+    background: center;
+    background-image: linear-gradient(gold, white);
+    text-align: center;
+    color: black;
+    font-style: oblique;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
